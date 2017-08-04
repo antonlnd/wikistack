@@ -1,0 +1,15 @@
+{
+  "name": "wikistack",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Claud D. Park <posquit0.bj@gmail.com> (http://www.posquit0.com)",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "^4.4.2"
+  }
+}
